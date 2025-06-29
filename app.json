@@ -1,8 +1,8 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "Desire kambarami",
+  "description": "Best WhatsApp bot developed by Desire kambarami",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -50,9 +50,9 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Name for your bot",
-      "value": "BWM-XMD",
-      "required": false
+      "description": "Desire kambarami",
+      "value": "Dr kays-XMD",
+      "required": true
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
@@ -140,7 +140,7 @@
       "required": false
     },
     "GOODBYE_MESSAGE": {
-      "description": "Enable  goodbye in groups (yes/no)",
+      "description": "Enable  goodbye in groups (yes)",
       "value": "no",
       "required": false
     },
